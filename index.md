@@ -3,7 +3,6 @@ layout: default
 title: CIS 121—Spring 2016—Data Structures and Algorithms
 active_tab: main-page
 ---
-
 {: .dl-horizontal}
 Course:
 : CIS 121---Spring 2016
@@ -40,6 +39,7 @@ Grading:
     * 25% for the final
     * 5% for recitation attendance. Recitation attendance is mandatory.
 
+---
 
 Late submission policy:
 
@@ -54,6 +54,7 @@ Late submission policy:
     Levine 308. The final project does not have the same late policy; it has its
     own late policy, which will be announced with its release.
 
+---
 
 Collaboration policy for written homeworks:
 
@@ -63,6 +64,7 @@ Collaboration policy for written homeworks:
     of equations?"). You are **not** allowed to write up the solutions together.
     You must do that by yourself.
 
+---
 
 Collaboration policy for programming homeworks:
 
@@ -119,6 +121,7 @@ Collaboration policy for programming homeworks:
 
     Any violation of the collaboration policy will be dealt with severely.
 
+---
 
 Regrade policy for programming homeworks:
 
@@ -141,6 +144,7 @@ Regrade policy for programming homeworks:
 
     Regrade emails to individual TAs are NOT guaranteed to be processed.
 
+---
 
 Regrade policy for written homeworks and exams:
 

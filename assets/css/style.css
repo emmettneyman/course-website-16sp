@@ -1,3 +1,20 @@
+body {
+	font-size: medium;
+}
+
+#navbar {
+	background-color: rgba(0, 128, 255, 0.3);
+	width: 100%;
+	padding-top: 100px;
+	padding-left: 18%;
+}
+
+#content {
+	padding-left: 15%;
+	padding-right: 15%;
+	background-color: rgba(0, 128, 255, 0.1);
+}
+
 .resource-header-list {
     list-style-type: none;
 }
