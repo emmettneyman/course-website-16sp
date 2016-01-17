@@ -29,10 +29,6 @@ p {
 	color: black;
 }
 
-#nav li:hover > a {
-	color: white;
-}
-
 #title {
 	font-size: 20px;
 }
@@ -43,6 +39,11 @@ p {
 	background-color: #E08E79;
 	color: white;
     box-shadow:0px 0px 0px 1px #ECE5CE inset;
+}
+
+#nav .navbar-toggle:hover,
+#nav .navbar-toggle:focus {
+	background-color: #E08E79;
 }
 
 .photo {
@@ -59,16 +60,21 @@ a {
 	color: #E08E79;
 }
 
-.visible {
-	display: block;
+a.accordion-toggle {
+	color: black;
 }
 
-.hidden {
-	display: none;
+a.accordion-toggle:hover {
+	color: gray;
+	text-decoration: none;
 }
 
 .glyphicon {
 	float: right;
+}
+
+.glyphicon:hover {
+	color: gray;
 }
 
 .main {
