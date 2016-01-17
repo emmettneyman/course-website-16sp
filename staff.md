@@ -7,11 +7,11 @@ active_tab: staff
 <div class="container-fluid">
   <div class="row">
   {% for staff in site.data.staff %}
-      <div class="col-lg-4 col-md-6 col-xs-12" style="margin-bottom: 20px; height: 350px;">
-        <ul class="list-unstyled">
-          <li>
+      <div class="col-lg-4 col-md-6 col-xs-12" style="margin-top: 20px; margin-bottom: 40px; height: 350px">
+        <ul class="list-unstyled" style="text-align: center">
+          <li style="text-align: center">
             {% if staff.pic %}
-              <img src="assets/img/staff/{{staff.pic}}" class="img-circle" style="height: 100%; width: 100%; max-height: 250px; max-width: 250px">
+              <img src="assets/img/staff/{{staff.pic}}" class="img-circle" style="height: 100%; width: 100%; max-height: 250px; max-width: 250px; margin-bottom: 10px">
             {% else %}
               <img src="assets/img/staff/profile-pic.png" class="img-circle" style="height: 100%; width: 100%; max-height: 250px; max-width: 250px">
             {% endif %}

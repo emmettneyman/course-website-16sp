@@ -31,7 +31,8 @@ as well as various online retailers.
 
 ---
 
-Grading:
+{: .content}
+Grading
 
 : The grading for the course will consist of:
 
@@ -41,7 +42,7 @@ Grading:
     * 5% for recitation attendance. Recitation attendance is mandatory.
 
 
-Late submission policy:
+Late submission policy
 
 : The following applies to all homeworks, both written and programming, except
     for the final project, which does not have a late day policy. Each student
@@ -55,7 +56,7 @@ Late submission policy:
     own late policy, which will be announced with its release.
 
 
-Collaboration policy for written homeworks:
+Collaboration policy for written homeworks
 
 : You are allowed to discuss solutions to problems in groups of three,
     *documenting* who you discussed with at the top of your assignment. You are
@@ -64,7 +65,7 @@ Collaboration policy for written homeworks:
     You must do that by yourself.
 
 
-Collaboration policy for programming homeworks:
+Collaboration policy for programming homeworks
 
 : You are allowed to discuss low-level issues like the meaning of Java
     constructs, or how to use the computing environment. You are allowed to
@@ -120,7 +121,7 @@ Collaboration policy for programming homeworks:
     Any violation of the collaboration policy will be dealt with severely.
 
 
-Regrade policy for programming homeworks:
+Regrade policy for programming homeworks
 
 : We allow you to indicate *small errors* (defined below) that you have made,
     which, when fixed, will allow your programs to pass autograder tests. You
@@ -142,7 +143,7 @@ Regrade policy for programming homeworks:
     Regrade emails to individual TAs are NOT guaranteed to be processed.
 
 
-Regrade policy for written homeworks and exams:
+Regrade policy for written homeworks and exams
 
 : Each written assignment and each midterm exam will have a regrade request
     deadline that will be posted typically one week after the assignment or exam
