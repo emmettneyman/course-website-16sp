@@ -4,6 +4,9 @@ title: CIS 121—Spring 2016—Data Structures and Algorithms
 active_tab: main-page
 ---
 
+{: .photo}
+![Java](assets/img/java.png)![Rajiv Gandhi](assets/img/rajiv.jpg)
+
 {: .dl-horizontal}
 Course:
 : CIS 121---Spring 2016
@@ -30,6 +33,9 @@ recommended that you buy this textbook. It is available from the Penn Bookstore,
 as well as various online retailers.
 
 ---
+
+<span class="glyphicon glyphicon-menu-down"></span>
+<span class="glyphicon glyphicon-menu-up"></span>
 
 {: .content}
 Grading
